@@ -13,6 +13,7 @@ Role Variables
 --------------
 
 **PHP_REQUIRED_PACKAGES**:
+
 A comma separated list of php packages to be installed with the OS package 
 manager.
 
